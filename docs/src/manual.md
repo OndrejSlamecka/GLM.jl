@@ -42,7 +42,6 @@ Currently the available Link types are
     ProbitLink
     SqrtLink
 
-
 Note that the canonical link for negative binomial regression is `NegativeBinomialLink`, but
 in practice one typically uses `LogLink`.
 The `NegativeBinomial` distribution belongs to the exponential family only if θ (the shape
